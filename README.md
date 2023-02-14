@@ -11,6 +11,10 @@ Anderson Zuñiga|ScramMaster
 Jhoel Zuñiga| Dueño del procucto
 
 ## Historias de usuario
+Prioridad | identivicador nombre | descripcion | puntos de historia | dias idelaes| responsable
+----------|----------------------|-------------|------------|--------|-----
+1 | calculo de descuentos | como tareador nesecito cacular los decuentos on la finalidad de evitar de la remuneracion del trabajador |  1 | 1| Anderson 
+
 ### Historias de usuario del primer sprint
 ### Historias de usuario del segundo sprint
 
